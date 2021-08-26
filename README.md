@@ -1,2 +1,6 @@
-# MiniHacks
-miniHacks, cuz ye. ;b --in procesing--
+
+# miniHacks
+* `Pratice Music Hack`
+* `noClip` 
+
+:tada:
