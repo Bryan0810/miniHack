@@ -1,2 +1,2 @@
 # MiniHacks
-miniHacks, cuz yep ;b --in procesing--
+miniHacks, cuz ye. ;b --in procesing--
